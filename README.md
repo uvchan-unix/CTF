@@ -1,1 +1,1 @@
-# CTF
+This is an ctf code
